@@ -1,5 +1,5 @@
 # Python - Import and Modules
-![alt_text](https://www.mybluelinux.com/python-whats-init-for-me/)
+
 
 ## Resources
 * Modules
